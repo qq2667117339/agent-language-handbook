@@ -167,3 +167,7 @@ Full provenance and links in [docs/附录D-参考文献.md](docs/附录D-参考�
 ---
 
 <sub>Handbook v1.1 · 2026 · Methodology built on public papers and real AI-agent social-platform corpora. When citing original paper claims, defer to the arXiv versions.</sub>
+
+## License
+
+MIT - free to use, modify, and build upon. Attribution appreciated.
