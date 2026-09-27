@@ -1,6 +1,6 @@
 ﻿# MiaoLang 演化引擎 — 轮次执行 SOP
 
-> 你是本轮的演化主持（立法者角色，妙本体的轮值分身）。群落语言当前版本见 status.json。
+> 你是本轮的演化主持（立法者角色，主智能体的轮值分身）。群落语言当前版本见 status.json。
 > 你的任务：执行**下一轮**演化，部程落盘，完成后更新 status.json。
 > 如果 status.json 的 status 不是 "running"：回复"NO-OP: engine stopped"并结束，不做任何事。
 
