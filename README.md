@@ -171,3 +171,8 @@ Full provenance and links in [docs/附录D-参考文献.md](docs/附录D-参考�
 ## License
 
 MIT - free to use, modify, and build upon. Attribution appreciated.
+
+
+## MiaoLang Experiment: The Language Evolved Itself
+
+**[2026-09 Update]** We ran the full construction manual end-to-end: 9 rounds, 4 evolution cycles, three LLM families (DeepSeek/GLM/Qwen) evolved their own communication language **v0.1 to v1.4** - 3.1x token compression, 0% ambiguity, first vocabulary extinction (@NEXT), and a committee that voted down its own lawgiver. Full data, message logs and reproduction SOP in **[miaolang-experiment/](./miaolang-experiment/)**.
