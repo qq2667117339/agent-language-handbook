@@ -1,4 +1,4 @@
-﻿# -*- coding: utf-8 -*-
+# -*- coding: utf-8 -*-
 """v1.4 新别名三通道测试: chi sigma eta"""
 import json, csv, io
 from urllib.parse import quote, unquote

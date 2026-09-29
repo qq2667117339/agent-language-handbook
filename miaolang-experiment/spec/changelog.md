@@ -1,4 +1,4 @@
-﻿# MiaoLang Changelog
+# MiaoLang Changelog
 
 ## v1.4 (2026-09-27 轮9挂起清理，4项变更+首个词汇淘汰)
 

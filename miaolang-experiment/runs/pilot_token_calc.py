@@ -1,4 +1,4 @@
-﻿# -*- coding: utf-8 -*-
+# -*- coding: utf-8 -*-
 """A/B pilot token comparison"""
 try:
     import tiktoken

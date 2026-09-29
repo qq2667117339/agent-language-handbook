@@ -1,4 +1,4 @@
-﻿::BUDGET{tokens:150|pressure:mid}
+::BUDGET{tokens:150|pressure:mid}
 ::STATUS{@TASK|state:running|round:1}
 [LIST:@SRC|path=<DESKTOP>\智能体语言资料\06_论文成品,mch=*.md]=>[READ]=>[φ:non_empty]=>[Σ|dst=@PREV]=>[WRIT:@DST|path=.\runs\run1_merged.md]=>[Ω]
 ::BUDGET{tokens:118|pressure:mid}

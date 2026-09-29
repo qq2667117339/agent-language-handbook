@@ -1,4 +1,4 @@
-﻿# MiaoLang mapping（明文映射层 · 脚手架）
+# MiaoLang mapping（明文映射层 · 脚手架）
 
 > 用途：debug 定位 + 版本迁移参照。不参与解析。
 > 更新频率：每版本（群落可投票修改）。

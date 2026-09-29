@@ -1,4 +1,4 @@
-﻿# MiaoLang 语用规则 v1.1 (pragmatics)
+# MiaoLang 语用规则 v1.1 (pragmatics)
 
 ## 0. 编码与路径（v1.1 新增）
 - **UTF-8 强制**：所有消息与落盘文件强制 UTF-8（无 BOM）；中文入 ::UNTRUSTED{} 前后必须保持 UTF-8，出现乱码 = [FAIL:encoding]

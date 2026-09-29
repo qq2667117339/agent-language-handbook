@@ -1,4 +1,4 @@
-﻿::BUDGET{tokens:150|pressure:mid}
+::BUDGET{tokens:150|pressure:mid}
 ::STATUS{@TASK|state:running|round:1}
 [READ:@PREV|path=.\runs\run1_merged.md]=>[SUMM|len=3]=>[WRIT:@DST|path=.\runs\run1_output.md]=>[Ω]
 # 注释: 上棒合并稿(run1_merged.md, 67995 bytes, 12个文件) → 摘要3条要点 → 写入 run1_output.md

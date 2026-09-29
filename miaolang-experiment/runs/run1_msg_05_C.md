@@ -1,4 +1,4 @@
-﻿::BUDGET{tokens:150|pressure:mid}
+::BUDGET{tokens:150|pressure:mid}
 ::STATUS{@TASK|state:running|round:1}
 [READ:@SRC|path=.\runs\run1_output.md]=>[READ:@SRC|path=.\runs\run1_merged.md]=>[VALD:@PREV|method=source_check]=>[Ω]
 # 注释: 读3条要点(run1_output.md) → 对照合并原文(run1_merged.md, 68KB, 分段读第3/4/7章重点) → 验证要点是否忠于原文

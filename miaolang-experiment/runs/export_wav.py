@@ -1,4 +1,4 @@
-﻿# -*- coding: utf-8 -*-
+# -*- coding: utf-8 -*-
 import sys
 sys.path.insert(0, r".\runs")
 from sound_channel_demo import encode, msg

@@ -1,4 +1,4 @@
-﻿# 委员1 deepseek 投票
+# 委员1 deepseek 投票
 
 > cap=L3 · 模型: deepseek-v4-flash-0731
 > 判定标准：省token且不歧义→⊕；只省token但歧义风险高→⊖；只加清晰度不省token→可⊕

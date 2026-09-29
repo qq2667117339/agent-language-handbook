@@ -1,4 +1,4 @@
-﻿# MiaoLang 词汇表 v1.1 (lexicon)
+# MiaoLang 词汇表 v1.1 (lexicon)
 
 > 32 动词，8 类。高频动词带希腊字母别名（与 symbol_table.txt 对齐）。
 > 动词格式：{4字母码, 别名, 类别, 一句话语义, 参数槽}
